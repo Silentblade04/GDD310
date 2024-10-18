@@ -7,6 +7,8 @@
 			"files": [
 				"B:/Unreal/Projects/GDD310/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"B:/Unreal/Projects/GDD310/MyProject/Content/levels/Lab4Level.umap",
+				"B:/Unreal/Projects/GDD310/MyProject/Content/Materials/Landscapes/Riverbed.uasset",
+				"B:/Unreal/Projects/GDD310/MyProject/Content/Sequences/Lab4Seq.uasset",
 				"B:/Unreal/Projects/GDD310/MyProject/Content/MarketPlace/PN_coniferBushes_I/Map/Showroom.umap",
 				"B:/Unreal/Projects/GDD310/MyProject/Content/MarketPlace/PN_coniferBushes_I/Blueprints/CollisionBall.uasset",
 				"B:/Unreal/Projects/GDD310/MyProject/Content/MarketPlace/PN_coniferBushes_I/Blueprints/PN_Bending_Component.uasset",
